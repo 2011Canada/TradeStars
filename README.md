@@ -58,4 +58,4 @@ customer's schedule.
 * Manik Bhushan
 
 ## License
-(<https://github.com/2011Canada/TradeStars/blob/main/LICENSE>)
+This project uses the following license: [GNU GENERAL PUBLIC LICENSE](<https://www.gnu.org/licenses/gpl-3.0.en.html>)
