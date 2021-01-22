@@ -1,0 +1,6 @@
+[submodule "Project-2-frontend"]
+	path = Project-2-frontend
+	url = https://github.com/Revature-Canada-Project-2-Team-4/Project-2-frontend
+[submodule "Project-2-backend"]
+	path = Project-2-backend
+	url = https://github.com/Revature-Canada-Project-2-Team-4/Project-2-backend
