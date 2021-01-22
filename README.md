@@ -48,9 +48,14 @@ customer's schedule.
 
 ## Usage
 
+
+
 ## Contributors
 
 * Matt Northmore (Scrum Master)
 * Samin Islam
 * Ramninder Singh
 * Manik Bhushan
+
+## License
+(<https://github.com/2011Canada/TradeStars/blob/main/LICENSE>)
