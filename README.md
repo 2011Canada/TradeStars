@@ -44,10 +44,6 @@ customer's schedule.
 8. Both the customer and the tradesman are able to logout of the platform which would redirect them to the landing page.
 
 
-## Getting Started 
-
-## Usage
-
 
 
 ## Contributors
