@@ -40,7 +40,7 @@ read reviews made about them.
 6. Through the view schedule button, the tradesman can mark the appointment as complete so the system knows that the appointment is taken care of.
 7. Through the approve/ reject button, the tradesman can approve the appointment which would make the appointment then show up on the schedule.
 If the tradesman decided to mark the appointment as rejected, that specific appointment will not show up on the tradesman's schedule or on the 
-customer's schedule.
+customer's schedules.
 8. Both the customer and the tradesman are able to logout of the platform which would redirect them to the landing page.
 
 
@@ -50,7 +50,7 @@ customer's schedule.
 
 * Matt Northmore (Scrum Master)
 * Samin Islam
-* Ramninder Singh
+* Ramninder Singh 
 * Manik Bhushan
 
 ## License
